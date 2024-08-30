@@ -1,6 +1,1 @@
-nacos/nacos-server:v2.1.1
-elasticsearch:7.17.13
-emqx/emqx:latest 
-mysql:5.7
-redis
-
+openzipkin/zipkin
